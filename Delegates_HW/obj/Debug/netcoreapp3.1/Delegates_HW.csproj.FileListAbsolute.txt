@@ -1,0 +1,14 @@
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/bin/Debug/netcoreapp3.1/Delegates_HW
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/bin/Debug/netcoreapp3.1/Delegates_HW.deps.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/bin/Debug/netcoreapp3.1/Delegates_HW.runtimeconfig.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/bin/Debug/netcoreapp3.1/Delegates_HW.runtimeconfig.dev.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/bin/Debug/netcoreapp3.1/Delegates_HW.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/bin/Debug/netcoreapp3.1/Delegates_HW.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/obj/Debug/netcoreapp3.1/Delegates_HW.csproj.AssemblyReference.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/obj/Debug/netcoreapp3.1/Delegates_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/obj/Debug/netcoreapp3.1/Delegates_HW.AssemblyInfoInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/obj/Debug/netcoreapp3.1/Delegates_HW.AssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/obj/Debug/netcoreapp3.1/Delegates_HW.csproj.CoreCompileInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/obj/Debug/netcoreapp3.1/Delegates_HW.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/obj/Debug/netcoreapp3.1/Delegates_HW.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Delegates_HW/Delegates_HW/obj/Debug/netcoreapp3.1/Delegates_HW.genruntimeconfig.cache

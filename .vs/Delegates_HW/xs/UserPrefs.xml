@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{88BEE826-DCFB-4B34-A628-747490B93C9C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegates_HW/Program.cs">
+    <Files>
+      <File FileName="Delegates_HW/Program.cs" Line="317" Column="9" />
+      <File FileName="Delegates_HW/Models/Person.cs" Line="9" Column="37" />
+      <File FileName="Delegates_HW/Models/Book.cs" Line="7" Column="37" />
+      <File FileName="Delegates_HW/Models/Employee.cs" Line="7" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Delegates_HW" expanded="True">
+            <Node name="Delegates_HW" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Delegates__HW PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
