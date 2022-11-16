@@ -87,9 +87,9 @@ namespace Delegates_HW
             #region Task_2
             //List<Person> people = new List<Person>();
 
-            //people.Add(new Person { Name = "Elchin", Surname = "Muradov", Address = "Neftchiler", Salary = 2500 });
+            //people.Add(new Person { Name = "Elchin", Surname = "Muradov", Address = "Neftchiler", Salary = 500 });
             //people.Add(new Person { Name = "Anar", Surname = "Ekberov", Address = "Genclik", Salary = 5000 });
-            //people.Add(new Person { Name = "Remzi", Surname = "Aliyev", Address = "Xalqlar", Salary = 1500 });
+            //people.Add(new Person { Name = "Remzi", Surname = "Aliyev", Address = "Xalqlar", Salary = 900 });
             //people.Add(new Person { Name = "Farid", Surname = "Ahmadli", Address = "Yasamal", Salary = 3000 });
             //people.Add(new Person { Name = "Cavad", Surname = "Heyderov", Address = "Nerimanov", Salary = 1000 });
 
@@ -106,11 +106,9 @@ namespace Delegates_HW
             //books.Add(new Book { BookName = "Book5", Author = "Nizami" });
 
             //Console.WriteLine(CheckTheSumOfBooks(CheckAuthor, books));
-
             #endregion
 
             #region Task_4
-
             //List<Employee> employees = new List<Employee>();
 
             //employees.Add(new Employee { FullName = "Elchin Muradov", Age = 50 });
@@ -278,34 +276,33 @@ namespace Delegates_HW
         #endregion
 
         #region Task_2
-        //public static bool CheckCondition(Person person)
+        //public static bool CheckCondition(double salary)
         //{
-        //    return person.Salary >= 1000;
+        //    return salary >= 1000;
         //}
 
-        //public static void InfoOfPeople(Predicate<Person> func, List<Person> people)
+        //public static void InfoOfPeople(Predicate<double> func, List<Person> people)
         //{
         //    foreach (var eachPerson in people)
         //    {
-        //        if (func(eachPerson))
+        //        if (func(eachPerson.Salary))
         //            Console.WriteLine($"{eachPerson.Name} + {eachPerson.Surname} + {eachPerson.Address}");
         //    }
         //}
         #endregion
 
         #region Task_3
-
-        //public static bool CheckAuthor(Book book)
+        //public static bool CheckAuthor(string author)
         //{
-        //    return book.Author == "Nizami";
+        //    return author == "Nizami";
         //}
 
-        //public static int CheckTheSumOfBooks(Predicate<Book> func, List<Book> books)
+        //public static int CheckTheSumOfBooks(Predicate<string> func, List<Book> books)
         //{
         //    int count = 0;
         //    foreach (var eachBook in books)
         //    {
-        //        if (func(eachBook))
+        //        if (func(eachBook.Author))
         //        {
         //            count++;
         //        }
@@ -315,13 +312,12 @@ namespace Delegates_HW
         #endregion
 
         #region Task_4
-
-        //public static bool CheckAge(Employee employee)
+        //public static bool CheckAge(int age)
         //{
-        //    return employee.Age >= 20 && employee.Age <= 40;
+        //    return age >= 20 && age <= 40;
         //}
 
-        //public static double CheckTheAverageOfAge(Predicate<Employee> func, List<Employee> employees)
+        //public static double CheckTheAverageOfAge(Predicate<int> func, List<Employee> employees)
         //{
         //    int avr = 0;
         //    int sum = 0;
@@ -329,7 +325,7 @@ namespace Delegates_HW
 
         //    foreach (var eachEmployee in employees)
         //    {
-        //        if (func(eachEmployee))
+        //        if (func(eachEmployee.Age))
         //        {
         //            count++;
         //            sum += eachEmployee.Age;
@@ -337,7 +333,6 @@ namespace Delegates_HW
         //    }
         //    return sum / count;
         //}
-
         #endregion
     }
 }
